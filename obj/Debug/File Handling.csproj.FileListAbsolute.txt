@@ -1,0 +1,10 @@
+E:\5th\Extra\File Handling\obj\Debug\File Handling.csproj.AssemblyReference.cache
+E:\5th\Extra\File Handling\obj\Debug\File_Handling.Properties.Resources.resources
+E:\5th\Extra\File Handling\obj\Debug\File Handling.csproj.GenerateResource.cache
+E:\5th\Extra\File Handling\obj\Debug\File Handling.csproj.CoreCompileInputs.cache
+E:\5th\Extra\File Handling\bin\Debug\File Handling.exe.config
+E:\5th\Extra\File Handling\bin\Debug\File Handling.exe
+E:\5th\Extra\File Handling\bin\Debug\File Handling.pdb
+E:\5th\Extra\File Handling\obj\Debug\File_Handling.Form1.resources
+E:\5th\Extra\File Handling\obj\Debug\File Handling.exe
+E:\5th\Extra\File Handling\obj\Debug\File Handling.pdb
